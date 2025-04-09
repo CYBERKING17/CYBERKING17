@@ -1,6 +1,9 @@
-<img align="right"  alt="coding" width="300" height="200" src="20250409_143934.jpg">
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
+<img align="right"  alt="coding" width="300" height="200" src="20250409_143934.jpg">
+
+
 <img align="right"  alt="coding" width="300" height="200" src="aa.png.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberking17&label=Profile%20views&color=0e75b6&style=flat" alt="cyberking17" /> </p>
