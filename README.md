@@ -6,10 +6,10 @@
 </div>
 
 <p align='center'>
-  <a href="https://www.instagram.com/cyber_k.in/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/cyber_k.ing/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Instagram"></a>&nbsp;&nbsp;
  <!-- <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true" alt="YouTube"></a>&nbsp;&nbsp;
-  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="WhatsApp"></a>&nbsp;&nbsp; -->
-  <a href="mailto:cyberk195@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="WhatsApp"></a>&nbsp;&nbsp; 
+  <a href="mailto:cyberk195@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Email"></a>&nbsp;&nbsp; -->
 </p>
 
 ---
