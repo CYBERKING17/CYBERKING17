@@ -7,9 +7,9 @@
 
 <p align='center'>
   <a href="https://www.instagram.com/cyber_k.ing/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Instagram"></a>&nbsp;&nbsp;
- <!-- <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true" alt="YouTube"></a>&nbsp;&nbsp;
-  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="WhatsApp"></a>&nbsp;&nbsp; 
-  <a href="mailto:cyberk195@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Email"></a>&nbsp;&nbsp; -->
+ <!-- <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true" alt="YouTube"></a>&nbsp;&nbsp;-->
+  <a href="https://whatsapp.com/channel/0029Vb75mfYKbYMEqahfPU0B"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="WhatsApp"></a>&nbsp;&nbsp; 
+  <a href="mailto:cyberk195@gmail.com"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Email"></a>&nbsp;&nbsp; 
 </p>
 
 ---
@@ -17,11 +17,11 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 CYBER KING | 💻 Full Stack Developer | 🇮🇳 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-<!--
+
 <p align="center">
-  <a href="https://visitor-badge.glitch.me/badge?page_id=thakur2309.thakur2309"> 
+  <a href="https://visitor-badge.glitch.me/badge?page_id=CYBERKING17.CYBERKING17"> 
   </a>
-</p>-->
+</p>
 
 <h5 align="center">
   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
@@ -47,15 +47,15 @@
   <a href="https://www.instagram.com/cyber_k.ing" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
- <!-- <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb75mfYKbYMEqahfPU0B" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw" target="_blank">
+<!--  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>-->
+  </a>
   <a href="mailto:cyberk195@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>-->
 </p>
 
 ---
