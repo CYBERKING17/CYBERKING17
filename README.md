@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/thakur2309">Alok Thakur</a> 
+  <h1>Hi there, I'm <a href="https://github.com/thakur2309">CYBER KING</a> 
   </h1>
 
 </div>
@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Alok Thakur | 💻 Full Stack Developer | 🇮🇳 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 CYBER KING | 💻 Full Stack Developer | 🇮🇳 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3>I'm Alok Thakur, Full-Stack developer from India.</h3>
+  <h3>I'm CYBER KING, Full-Stack developer from India.</h3>
 </p>
 
 - 🥀 Learning C,   
@@ -44,16 +44,16 @@
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==" target="_blank">
+  <a href="https://www.instagram.com/cyber_k.ing" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F" target="_blank">
+ <!-- <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:thakuralok210@gmail.com">
+  </a>-->
+  <a href="mailto:cyberk195@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -62,24 +62,24 @@
 
 <p align="center">
   <h3>📊 GitHub Stats</h3>
-  <a href="https://github.com/thakur2309">
-    <img src="https://github-readme-stats.vercel.app/api?username=thakur2309&show_icons=true&theme=radical&count_private=true" alt="Alok Thakur GitHub Stats"/>
+  <a href="https://github.com/CYBERKING17">
+    <img src="https://github-readme-stats.vercel.app/api?username=CYBERKING17&show_icons=true&theme=radical&count_private=true" alt="Alok Thakur GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
   <h3>💻 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakur2309&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERKING17&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <h3>🌍 GitHub Visitor Map</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=thakur2309&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="Visitor Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CYBERKING17&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="Visitor Stats"/>
 </p>
 
 <p align="center">
   <h3>🔥 GitHub Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakur2309&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERKING17&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -87,15 +87,15 @@
 <h2 align="center">📺 Social Badges</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
+ <!-- <a href="https://www.youtube.com/channel/UCvWOXCh0MM4aFukIkb-zgQw">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCvWOXCh0MM4aFukIkb-zgQw?style=social" alt="YouTube Subscribers"/>
-  </a>
-  <a href="https://www.instagram.com/sudo_xploit/">
+  </a>-->
+  <a href="https://www.instagram.com/cyber_k.ing/">
     <img src="https://img.shields.io/badge/Instagram-Follow-FF69B4?style=social&logo=instagram" alt="Instagram Follow"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
+  <!--<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
     <img src="https://img.shields.io/badge/WhatsApp-Join-25D366?style=social&logo=whatsapp" alt="WhatsApp Channel"/>
-  </a>
+  </a>-->
 </p>
 
 ---
