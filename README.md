@@ -63,7 +63,7 @@
 <p align="center">
   <h3>📊 GitHub Stats</h3>
   <a href="https://github.com/CYBERKING17">
-    <img src="https://github-readme-stats.vercel.app/api?username=CYBERKING17&show_icons=true&theme=radical&count_private=true" alt="Alok Thakur GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=CYBERKING17&show_icons=true&theme=radical&count_private=true" alt="CYBERKING17 GitHub Stats"/>
   </a>
 </p>
 
